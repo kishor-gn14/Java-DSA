@@ -69,8 +69,14 @@ By checking first, then storing, you guarantee the complement you find is always
 
 | | Complexity | Notes |
 |---|---|---|
-| **Time** | O(n) | One pass through the array |
+| **Time**  | O(n) | One pass through the array |
 | **Space** | O(n) | Map stores at most `n` elements |
 
 > vs brute force: **O(n²)** time, **O(1)** space.  
 > The HashMap trades space for speed.
+
+---
+
+## The Mental Model
+
+Think of the HashMap as a **"have I seen you before?" registry**. Every number you visit either finds its match already registered, or signs itself in for a future number to find. One pass, no going back.
