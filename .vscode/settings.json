@@ -1,9 +1,11 @@
 {
     "java.project.sourcePaths": [
-        "3. Product Except Self",
-        "2. Contains Duplicate",
-        "1. Two Sum",
-        "4. Group Anagrams"
+        "01-Two-Sum",
+        "02-Contains-Duplicate",
+        "03-Product-Except-Self",
+        "04-Group-Anagrams",
+        "05-Top-K-Frequent-Elements",
+        "06-Longest-Consecutive"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
