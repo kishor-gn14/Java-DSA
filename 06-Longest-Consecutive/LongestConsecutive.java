@@ -30,5 +30,4 @@ public class LongestConsecutive {
         int result = obj.longestConsecutive(nums);
         System.out.println(result);
     }
-
 }
