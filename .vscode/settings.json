@@ -1,12 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "07-Subarray-Sum-Equals-K",
         "06-Longest-Consecutive",
         "05-Top-K-Frequent-Elements",
         "04-Group-Anagrams",
         "03-Product-Except-Self",
         "02-Contains-Duplicate",
         "01-Two-Sum",
-        "07-Subarray-Sum-Equals-K"
+        "08-Valid-Anagram"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
