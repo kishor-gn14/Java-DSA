@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "09-Valid-Sudoku",
         "08-Valid-Anagram",
         "07-Subarray-Sum-Equals-K",
         "06-Longest-Consecutive",
@@ -8,7 +9,7 @@
         "03-Product-Except-Self",
         "02-Contains-Duplicate",
         "01-Two-Sum",
-        "09-Valid-Sudoku"
+        "10-Two-Sum-II"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
